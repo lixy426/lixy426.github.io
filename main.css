@@ -1,0 +1,17 @@
+body {
+  background: #1f1f1f;
+  margin:0;
+}
+
+.header {
+  height:70px;
+  background:#efefef;
+}
+
+.wapper {
+  width:980px;
+  height:700px;
+  box-shadow:0 2px 5px rgba(0,0,0,0.4);
+  background:#fff;
+  margin:0 auto;
+}
